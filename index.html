@@ -182,62 +182,12 @@
             <li menuItemName="Account" class="dropdown" id="Secondary_Navbar-Account">
               <a class="dropdown-toggle" data-toggle="dropdown" href="#">
                 <i class="fa fa-lg fa-user-circle fas"></i>&nbsp; Account
-                &nbsp;<i class="fa fa-chevron-down" aria-hidden="true"></i> </a>
-              <ul id="m-dwAccountLoginForm" class="dropdown-menu" style="min-width: 280px;padding: 14px 14px;overflow:hidden;">
-                <li>
-                  <div class="row">
-                    <div class="col-md-12">
-                      <form class="form" role="form" method="post" action="/dologin.php" accept-charset="UTF-8" id="login-nav">
-                        <input type="hidden" name="token" value="2a965359945ad7857d14165de2448e45dc7db32e" />
-                        <div class="form-group">
-                          <label for="inputEmailP">Alamat Email</label>
-                          <input type="email" name="username" class="form-control" id="inputEmailP" placeholder="Masukkan email" autofocus>
-                        </div>
-                        <div class="form-group">
-                          <label for="inputPasswordP">Password</label>
-                          <input type="password" name="password" class="form-control" id="inputPasswordP" placeholder="Password" autocomplete="off">
-                        </div>
-                        <div class="checkbox">
-                          <label><input type="checkbox" name="rememberme" /> Ingat Saya</label>
-                        </div>
-                        <div class="form-group">
-                          <input id="loginP" type="submit" class="btn btn-primary " value="Login" /> <a href="/pwreset.php" class="btn btn-default">Lupa Password?</a>
-                        </div>
-                      </form>
-                      <hr>
-                      <button class="btn btn-danger" type="button" onclick="openPopUpGoogleLogin()" style="margin-bottom: .5em;"><i class="fa fa-google" style="color: #fff;"></i> Login with Google</button>
-                      <button class="btn btn-primary" type="button" onclick="openPopUpFacebookLogin()" style="margin-bottom: 2em;"><i class="fa fa-facebook" style="color: #fff;"></i> Login with Facebook</button>
-                      <script>
-                        function popupCenter(url, title, w, h) {
-                          let dualScreenLeft = window.screenLeft != undefined ? window.screenLeft : window.screenX;
-                          let dualScreenTop = window.screenTop != undefined ? window.screenTop : window.screenY;
-
-                          let width = window.innerWidth ? window.innerWidth : document.documentElement.clientWidth ? document.documentElement.clientWidth : screen.width;
-                          let height = window.innerHeight ? window.innerHeight : document.documentElement.clientHeight ? document.documentElement.clientHeight : screen.height;
-
-                          let systemZoom = width / window.screen.availWidth;
-                          let left = (width - w) / 2 / systemZoom + dualScreenLeft;
-                          let top = (height - h) / 2 / systemZoom + dualScreenTop;
-
-                          let newWindow = window.open(url, title, 'scrollbars=yes, width=' + w / systemZoom + ', height=' + h / systemZoom + ', top=' + top + ', left=' + left);
-
-                          if (window.focus) newWindow.focus();
-                        }
-
-                        function openPopUpGoogleLogin() {
-                          popupCenter('/socialauth/google?LoginStatus=false', 'Google', '500', '700');
-                        }
-
-                        function openPopUpFacebookLogin() {
-                          popupCenter('/socialauth/facebook', 'Facebook', '500', '700');
-                        }
-                      </script>
-                      <div class="text-right">
-                        <strong>Belum terdaftar?</strong> <br /><a href="/register.php">Klik di sini untuk mendaftar...</a>
-                      </div>
-                    </div>
-                  </div>
-                </li>
+                &nbsp;<i class="fa fa-chevron-down" aria-hidden="true"></i> 
+              </a>
+              <ul id="m-dwAccountLoginForm" class="dropdown-menu m-0 p-0" style="min-width: 280px;padding: 14px 14px;overflow:hidden;">
+                <li><a href="/clientarea.php">Login</a></li>
+                <li><a href="/register.php">Register</a>
+                </li><li><a href="/index.php?rp=/password/reset">Forgot Password?</a></li>
               </ul>
             </li>
           </ul>
@@ -1031,104 +981,7 @@
   <script type="text/javascript" src="/assets/vendor/revslider/js/jquery.themepunch.tools.min.js"></script>
   <script type="text/javascript" src="/assets/vendor/revslider/js/jquery.themepunch.revolution.min.js"></script>
   <script async type="text/javascript" id="revslider_script" src="/assets/js/dw_revslider.js"></script>
-
-  <script>
-    (function (d, s, id) {
-      var js;
-      if (d.getElementById(id)) {
-        return;
-      }
-      js = d.createElement(s);
-      js.id = id;
-      js.src = "https://embedsocial.com/embedscript/ri.js";
-      d.getElementsByTagName("head")[0].appendChild(js);
-    }(document, "script", "EmbedSocialReviewsScript"));
-  </script>
   <script async src="/assets/js/dwgeneral.js"></script>
-  <script>
-    var recentOrders = [{
-      "firstline": "Muham**d from Bandung",
-      "secondline": "recently purchased <a href='\/hosting'>Warrior<\/a>",
-      "thirdline": "1604590394"
-    }, {
-      "firstline": "Ma**us from banyuwangi",
-      "secondline": "recently purchased <a href='\/hosting'>Scout<\/a>",
-      "thirdline": "1604588743"
-    }, {
-      "firstline": "b**i from jakarta timur",
-      "secondline": "recently purchased <a href='\/domain'>Domain (.com)<\/a>, <a href='\/hosting'>Warrior<\/a>",
-      "thirdline": "1604584606"
-    }, {
-      "firstline": "Li**ran from Surabaya",
-      "secondline": "recently purchased <a href='\/hosting'>Scout<\/a>",
-      "thirdline": "1604582578"
-    }, {
-      "firstline": "fe**y from Surabaya",
-      "secondline": "recently purchased <a href='\/hosting'>Hunter<\/a>",
-      "thirdline": "1604580603"
-    }, {
-      "firstline": "ir**n from tapos",
-      "secondline": "recently purchased <a href='\/hosting'>Scout<\/a>",
-      "thirdline": "1604580398"
-    }, {
-      "firstline": "Alex**der from Kab. Tangerang",
-      "secondline": "recently purchased <a href='\/hosting'>Hunter<\/a>",
-      "thirdline": "1604578331"
-    }, {
-      "firstline": "Alex**der from Kab. Tangerang",
-      "secondline": "recently purchased <a href='\/hosting'>Hunter<\/a>",
-      "thirdline": "1604578228"
-    }, {
-      "firstline": "Ha**f from Bogor",
-      "secondline": "recently purchased <a href='\/hosting'>Hunter<\/a>",
-      "thirdline": "1604575945"
-    }, {
-      "firstline": "T*n from Bogor",
-      "secondline": "recently purchased <a href='\/hosting'>Hunter<\/a>, <a href='\/domain'>Domain (.com)<\/a>",
-      "thirdline": "1604575398"
-    }, {
-      "firstline": "Dapu**o from Kab. Sleman",
-      "secondline": "recently purchased <a href='\/hosting'>Guardian<\/a>",
-      "thirdline": "1604573295"
-    }, {
-      "firstline": "kard**a from depok",
-      "secondline": "recently purchased <a href='\/hosting'>Guardian<\/a>",
-      "thirdline": "1604572612"
-    }, {
-      "firstline": "El**n from Solo",
-      "secondline": "recently purchased <a href='\/hosting'>Oracle<\/a>",
-      "thirdline": "1604572578"
-    }, {
-      "firstline": "Ros**a from Jakarta",
-      "secondline": "recently purchased <a href='\/domain'>Domain (.com)<\/a>",
-      "thirdline": "1604572526"
-    }, {
-      "firstline": "Bu**ingroom from Surabaya",
-      "secondline": "recently purchased <a href='\/hosting'>Warrior<\/a>",
-      "thirdline": "1604572431"
-    }, {
-      "firstline": "in**a from jakarta barat",
-      "secondline": "recently purchased <a href='\/hosting'>Warrior<\/a>",
-      "thirdline": "1604572393"
-    }, {
-      "firstline": "T*I from Bogor",
-      "secondline": "recently purchased <a href='\/hosting'>Hunter<\/a>",
-      "thirdline": "1604572352"
-    }, {
-      "firstline": "Di**n from Jakarta Timur",
-      "secondline": "recently purchased <a href='\/hosting'>Crusader<\/a>",
-      "thirdline": "1604572260"
-    }, {
-      "firstline": "Spa**dev from Jakarta",
-      "secondline": "recently purchased <a href='\/domain'>Domain (.co.id)<\/a>",
-      "thirdline": "1604572225"
-    }, {
-      "firstline": "west**n esp from Jakarta",
-      "secondline": "recently purchased <a href='\/hosting'>Warrior<\/a>",
-      "thirdline": "1604572173"
-    }];
-  </script>
-  <script async src="/assets/js/dw_recentorders.js"></script>
   <script>
     jQuery(document).ready(function ($) {
       var limit = $('#dwNavbar').height();
