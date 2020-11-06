@@ -12,7 +12,7 @@
   <link rel="shortcut icon" href="/assets/img/favicon.png">
   <link href="/assets/css/all.min.css" rel="stylesheet">
   <link href="/assets/css/dwcustom.css" rel="stylesheet">
-  <link rel="stylesheet" href="/assets/css/dw_homepage.css">
+  <link rel="stylesheet" href="/assets/css/dh_homepage.css">
   <link rel="stylesheet" href="/assets/css/shared.css">
   <link rel="stylesheet" type="text/css" media="all" href="/assets/vendor/revslider/css/settings.css" />
 
@@ -674,9 +674,6 @@
             <form class="dwDomainSearch__form" id="dwDomainSearchForm" method="POST" action="/ajax/pub/searchbulkdomain" data-type="domainsearch">
               <input type="hidden" name="token" value="2a965359945ad7857d14165de2448e45dc7db32e" />
               <div class="input-group m-dwDomainSearch__formContainer">
-
-
-
                 <input type="text" class="form-control a-dwDomainSearch__domainInput" name="domain" placeholder="Find your perfect domain name" autocomplete="off" required="">
                 <span class="input-group-btn">
                   <button type="submit" class="btn btn-info a-dwBtnOrange">
@@ -695,6 +692,7 @@
               <result></result>
             </div>
           </div>
+
           <div class="o-dwHomepage__servicesSection">
             <div class="o-dwHomepage__cloudHostingSection">
               <div class="m-dwHomepageCloudHosting__container">
@@ -702,7 +700,7 @@
                   <div class="a-dwHomepageCloudHosting__icon"></div>
                 </div>
                 <div class="m-dwHomepageCloudHosting__details">
-                  <h1 class="h1">Cloud Hosting</h1>
+                  <h1 class="h1">Shared Hosting</h1>
                   <p class="h3">Hosting terbaik untuk website kamu</p>
                   <p class="a-dwHomepageCloudHosting__description">
                     Tingkatkan penjualan dan traffic di website kamu dengan inovasi cloud hosting tercanggih di Indonesia.
@@ -721,7 +719,7 @@
                   <div class="a-dwHomepageCloudServer__icon"></div>
                 </div>
                 <div class="m-dwHomepageCloudServer__details">
-                  <h1 class="h1">Cloud Server</h1>
+                  <h1 class="h1">VPS</h1>
                   <p class="h3">VPS Murah dan Terbaik dengan NVMe SSD.</p>
                   <p class="a-dwHomepageCloudServer__description">
                     Pindahkan aplikasi/website high traffic kamu ke VPS terbaik di Deephosts dengan teknologi 100% cloud-powered, Intel Xeon Gold (Cascade Lake), Ultra Fast NVMe SSD Storage, KVM, Triple Data Replication, 100% Uptime SLA, Unlimited Bandwidth, dan Ninja Support 24/7 siap membantu kamu untuk instalasi server tanpa biaya tambahan. Tanpa ribet dan harga terjangkau.
@@ -738,7 +736,41 @@
                   <div class="a-dwHomepageBackup__icon"></div>
                 </div>
                 <div class="m-dwHomepageBackup__details">
-                  <h1 class="h1">Cloud Backup</h1>
+                  <h1 class="h1">Cloud VPS</h1>
+                  <p class="h3">Layanan Backup dan Disaster Recovery.</p>
+                  <p class="a-dwHomepageBackup__description">
+                    Jauhkan risiko kehilangan data dengan inovasi cloud backup otomatis dari Deephosts. Kamu bisa melakukan backup data yang ada di physical server, virtual server, workstation, mobile device, dan Office365 ke lokasi aman di cloud datacenter dengan harga terjangkau, sehingga ketika terjadi insiden, data bisa dipulihkan dengan cepat dan mudah.
+                  </p>
+                  <div class="m-dwHomepageBackup__btnDetails">
+                    <a class="a-dwBtnOrange" href="/backup">Lihat Layanan Cloud Backup</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="o-dwHomepage__cloudServerSection">
+              <div class="m-dwHomepageCloudServer__container">
+                <div class="m-dwHomepageCloudServer__icon">
+                  <div class="a-dwHomepageCloudServer__icon"></div>
+                </div>
+                <div class="m-dwHomepageCloudServer__details">
+                  <h1 class="h1">Dedicated Cloud</h1>
+                  <p class="h3">VPS Murah dan Terbaik dengan NVMe SSD.</p>
+                  <p class="a-dwHomepageCloudServer__description">
+                    Pindahkan aplikasi/website high traffic kamu ke VPS terbaik di Deephosts dengan teknologi 100% cloud-powered, Intel Xeon Gold (Cascade Lake), Ultra Fast NVMe SSD Storage, KVM, Triple Data Replication, 100% Uptime SLA, Unlimited Bandwidth, dan Ninja Support 24/7 siap membantu kamu untuk instalasi server tanpa biaya tambahan. Tanpa ribet dan harga terjangkau.
+                  </p>
+                  <div class="m-dwHomepageCloudServer__btnDetails">
+                    <a class="a-dwBtnOrange" href="/cloud-vps">Lihat Paket VPS</a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="o-dwHomepage__backupSection">
+              <div class="m-dwHomepageBackup__container">
+                <div class="m-dwHomepageBackup__icon">
+                  <div class="a-dwHomepageBackup__icon"></div>
+                </div>
+                <div class="m-dwHomepageBackup__details">
+                  <h1 class="h1">Bare Metal</h1>
                   <p class="h3">Layanan Backup dan Disaster Recovery.</p>
                   <p class="a-dwHomepageBackup__description">
                     Jauhkan risiko kehilangan data dengan inovasi cloud backup otomatis dari Deephosts. Kamu bisa melakukan backup data yang ada di physical server, virtual server, workstation, mobile device, dan Office365 ke lokasi aman di cloud datacenter dengan harga terjangkau, sehingga ketika terjadi insiden, data bisa dipulihkan dengan cepat dan mudah.
@@ -762,23 +794,6 @@
                   </p>
                   <div class="m-dwHomepageSSL__btnDetails">
                     <a class="a-dwBtnOrange" href="/ssl-certificates">Lihat Layanan SSL</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="o-dwHomepage__dewastoreSection">
-              <div class="m-dwHomepageDewastore__container">
-                <div class="m-dwHomepageDewastore__icon">
-                  <div class="a-dwHomepageDewastore__icon"></div>
-                </div>
-                <div class="m-dwHomepageDewastore__details">
-                  <h1 class="h1">Dewastore</h1>
-                  <p class="h3">Hosting Toko Online untuk UMKM dan pemula.</p>
-                  <p class="a-dwHomepageBackup__description">
-                    Kembangkan bisnis kamu dengan memiliki website toko online sendiri. Dewastore memudahkan kamu mengelola toko online, mulai dari pesanan, ongkos kirim sampai dengan pembayaran produk. Paket website toko online murah ini cocok untuk UMKM dan pemula.
-                  </p>
-                  <div class="m-dwHomepageBackup__btnDetails">
-                    <a class="a-dwBtnOrange" href="/dewastore">Lihat Layanan Dewastore</a>
                   </div>
                 </div>
               </div>
@@ -906,14 +921,12 @@
             </a>
           </div>
           <div class="a-dwFooter__badgeContainer -norton">
-
             <a href="javascript:void(0)" onclick="window.open('https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&dn=www.dewaweb.com&lang=en','VRSN_Splash','location=yes,status=yes,resizable=yes,scrollbars=yes,width=560,height=500')">
               <img name="seal" src="data:image/gif;base64,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" border="0" alt="" />
             </a>
           </div>
           <div class="a-dwFooter__badgeContainer -dmca">
             <a class="dmca-badge" title="DMCA.com Protection Status" href="//www.dmca.com/Protection/Status.aspx?ID=e08decd7-f498-4c40-9838-9193b1b097c8" target="_blank" rel="noopener">
-
               <img src="data:image/png;base64,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" alt="DMCA.com Protection Status" />
             </a>
 
