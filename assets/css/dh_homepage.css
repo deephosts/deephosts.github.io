@@ -1624,20 +1624,25 @@ span.input-group-btn {
   background: url('../img/service/service-5.png') no-repeat center center/contain;
   height: 14em
 }
+.dpService6__icon {
+  width: 20em;
+  background: url('../img/service/service-6.png') no-repeat center center/contain;
+  height: 14em
+}
 @media only screen and (min-width:768px) {
-  .dpService3__icon, .dpService4__icon4, .dpService5__icon {
+  .dpService3__icon, .dpService4__icon4, .dpService5__icon, .dpService6__icon {
     width: 20em;
     height: 20em
   }
 }
 @media only screen and (min-width:992px) {
-  .dpService3__icon, .dpService4__icon, .dpService5__icon {
+  .dpService3__icon, .dpService4__icon, .dpService5__icon, .dpService6__icon {
     width: 25em;
     height: 25em
   }
 }
 @media only screen and (min-width:1200px) {
-  .dpService3__icon, .dpService5__icon {
+  .dpService3__icon, .dpService4__icon, .dpService5__icon, .dpService6__icon {
     width: 40em;
     height: 30em;
     margin-left: 0;
@@ -1653,6 +1658,7 @@ span.input-group-btn {
   .dpService3__icon,
   .dpService4__icon,
   .dpService5__icon,
+  .dpService6__icon,
   .a-dwHomepageDewastore__icon {
     width: 50em;
     height: 40em
