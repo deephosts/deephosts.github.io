@@ -1,1 +1,1609 @@
-.revslider{min-height:100vh}.dwFeatureCheck{color:#a5d6a7}.a-dwTextOrange{color:#f26522}.o-dwHomepageBenefitsSection{background:url('../img/section-benefits-cloud-bottom.png') no-repeat center bottom/70em,#00b3c8;padding:1em 1em 4em;display:flex;flex-flow:row wrap;justify-content:center}.m-dwHomepageBenefitsSection__container{max-width:1200px;display:flex;flex-flow:row wrap;justify-content:space-around;align-content:flex-start}.m-dwHomepageBenefitsSection__container .h3{font-weight:600;color:#1b305a;letter-spacing:.2em}.m-dwHomepageBenefitsSection__container .h3,.m-dwHomepageBenefitsSection__container .h4{width:100%}.m-dwHomepageBenefitsSection__container .h4{margin-top:1.5em;margin-bottom:.5em;line-height:1.4em;color:#fff}.m-dwHomepageBenefitsSection__benefit{display:flex;flex-flow:row wrap;justify-content:center;padding:1em}.m-dwHomepageBenefitsSection__container{margin-bottom:10vh}.m-dwHomepageBenefitsSection__benefitCrossFader{display:flex;flex-flow:row wrap;justify-content:space-around}.m-dwHomepageBenefitsSection__benefitIcon.-secure{flex:0 1 18.05em}.m-dwHomepageBenefitsSection__benefitIcon.-fast{flex:0 1 23em}.m-dwHomepageBenefitsSection__benefitIcon.-reliable{flex:0 1 20.25em}.m-dwHomepageBenefitsSection__descriptionLayer{text-align:left;color:#fff;display:flex;align-items:center;line-height:1.6em}.m-dwHomepageBenefitsSection__descriptionLayer p{line-height:1.6em}.m-dwHomepageBenefitsSection__descriptionLayer ul li{list-style:none}.o-dwDomainSearch{display:flex;flex-flow:column wrap;justify-content:center;align-items:center;width:100%;height:auto;background:url(../img/section-domain-gratis-emblem.png) no-repeat right top,url(../img/section-domain-asset-top.png) no-repeat left top,#57bbd9;background-size:9em,35em;padding:7em 1em 2em}.o-dwDomainSearch .h3{margin-bottom:1em;font-weight:600;letter-spacing:.2em;color:#1b305a}.o-dwDomainSearch .h4:nth-child(2){margin-bottom:2em}.o-dwDomainSearch>.h4{color:#fff}.o-dwDomainSearch>a{font-size:.98em;border-bottom:2px dotted #8dd5ef;transition:all .2s ease-in-out;margin-top:1.5em}.o-dwDomainSearch>a:hover{color:#fff;border-bottom:2px solid #8dd5ef;transition:all .2s ease-in-out}.dwDomainSearch__form{display:flex;flex-flow:row wrap;justify-content:center;align-items:center;max-width:50em;width:100%}.m-dwDomainSearch__formContainer{flex:1 1 100%}.domain-spotlight{margin-bottom:1em}.tld-item{display:flex;align-items:center}.tld-item>*:not(:last-child){margin-right:.8em}.tld-item p{margin:0 0 5px;display:flex}.domain-currency{font-size:10px;display:flex}.tld-image{max-width:110px}.tld-price--home-page{font-size:16px;color:#1b305a}span.input-group-addon,span.input-group-btn{vertical-align:bottom}.o-dwHomepage__servicesSection{width:100%;background:url('../img/section-cloud-hosting-assets-top.png') no-repeat center top,url('../img/section-services-bottom.png') no-repeat center bottom,linear-gradient(140.29344225303055deg,rgba(199,228,248,1) 31.0740878629933%,rgba(198,227,247,1) 31.0740878629933%,rgba(116,206,226,1) 69.27215189873418%) fixed;padding:5em 1em;background-size:50em,50em}.o-dwHomepage__cloudHostingSection{display:flex;flex-flow:row wrap;justify-content:center}.m-dwHomepageCloudHosting__container{display:flex;flex-flow:row wrap;justify-content:space-around;align-items:center}.m-dwHomepageCloudHosting__icon{display:flex;flex-flow:row wrap;justify-content:center;align-items:center;flex:0 1 100%}.a-dwHomepageCloudHosting__icon{width:20em;background:url('../img/service/service-1.png') no-repeat center center/contain;margin-left:1.5em;height:14em}.m-dwHomepageCloudHosting__details{display:flex;flex-flow:row wrap;justify-content:center;margin-bottom:3em}.m-dwHomepageCloudHosting__details .h1{flex:0 1 100%;text-align:center;color:#1b305a;font-weight:600}.m-dwHomepageCloudHosting__details .h3{padding:0 1em;text-align:center;margin-top:0}.a-dwHomepageCloudHosting__description{text-align:left;padding:1em;margin-bottom:1.2em}.o-dwHomepage__cloudServerSection{display:flex;flex-flow:row wrap;justify-content:center;margin-top:3em}.m-dwHomepageCloudServer__container{display:flex;flex-flow:row wrap;justify-content:space-around;align-items:center}.m-dwHomepageCloudServer__icon{display:flex;flex-flow:row wrap;justify-content:center;align-items:center;flex:0 1 100%}.a-dwHomepageCloudServer__icon{width:20em;background:url('../img/services-2-cloudserver-icon.png') no-repeat center center/contain;margin-left:1.5em;height:14em}.m-dwHomepageCloudServer__details{display:flex;flex-flow:row wrap;justify-content:center;margin-bottom:3em}.m-dwHomepageCloudServer__details .h1{flex:0 1 100%;text-align:center;color:#1b305a;font-weight:600}.m-dwHomepageCloudServer__details .h3{padding:0 1em;text-align:center;margin-top:0}.a-dwHomepageCloudServer__description{text-align:left;padding:1em;margin-bottom:1.2em}.o-dwHomepage__dewaGuardSection{display:flex;flex-flow:row wrap;justify-content:center;margin-top:3em}.m-dwHomepageDewaGuard__container{display:flex;flex-flow:row wrap;justify-content:space-around;align-items:center}.m-dwHomepageDewaGuard__icon{display:flex;flex-flow:row wrap;justify-content:center;align-items:center;flex:0 1 100%}.a-dwHomepageDewaGuard__icon{width:20em;background:url('../img/services-3-dewaguard-icon.png') no-repeat center center/contain;margin-left:1.5em;height:14em}.m-dwHomepageDewaGuard__details{display:flex;flex-flow:row wrap;justify-content:center;margin-bottom:3em}.m-dwHomepageDewaGuard__details .h1{flex:0 1 100%;text-align:center;color:#1b305a;font-weight:600}.m-dwHomepageDewaGuard__details .h3{padding:0 1em;text-align:center;margin-top:0}.a-dwHomepageDewaGuard__description{text-align:left;padding:1em}.a-dwHomepageDewaGuard__comingSoon{margin-top:0}.o-dwHomepage__SSLSection{display:flex;flex-flow:row wrap;justify-content:center;margin-top:3em}.m-dwHomepageSSL__container{display:flex;flex-flow:row wrap;justify-content:space-around;align-items:center;padding-bottom:5em}.m-dwHomepageSSL__icon{display:flex;flex-flow:row wrap;justify-content:center;align-items:center;flex:0 1 100%}.a-dwHomepageSSL__icon{width:20em;background:url('../img/services-4-sslcertificates-icon.png') no-repeat center center/contain;margin-left:1.5em;height:14em}.m-dwHomepageSSL__details{display:flex;flex-flow:row wrap;justify-content:center;margin-bottom:3em}.m-dwHomepageSSL__details .h1{flex:0 1 100%;text-align:center;color:#1b305a;font-weight:600}.m-dwHomepageSSL__details .h3{padding:0 1em;text-align:center;margin-top:0}.a-dwHomepageSSL__description{text-align:left;padding:1em;margin-bottom:1.2em}.o-dwHomepage__dewastoreSection{display:flex;flex-flow:row wrap;justify-content:center;margin-top:3em}.m-dwHomepageDewastore__container{display:flex;flex-flow:row wrap;justify-content:space-around;align-items:center}.m-dwHomepageDewastore__icon{display:flex;flex-flow:row wrap;justify-content:center;align-items:center;flex:0 1 100%}.a-dwHomepageDewastore__icon{width:20em;background:url('../img/services-8-dewastore-icon.png') no-repeat center center/contain;height:14em}.m-dwHomepageDewastore__details{display:flex;flex-flow:row wrap;justify-content:center;margin-bottom:3em}.m-dwHomepageDewastore__details .h1{flex:0 1 100%;text-align:center;color:#1b305a;font-weight:600}.m-dwHomepageDewastore__details .h3{padding:0 1em;text-align:center;margin-top:0}.a-dwHomepageDewastore__description{text-align:left;padding:1em;margin-bottom:1.2em}.o-dwHomepage__backupSection{display:flex;flex-flow:row wrap;justify-content:center;margin-top:3em}.m-dwHomepageBackup__container{display:flex;flex-flow:row wrap;justify-content:space-around;align-items:center}.m-dwHomepageBackup__icon{display:flex;flex-flow:row wrap;justify-content:center;align-items:center;flex:0 1 100%}.a-dwHomepageBackup__icon{width:20em;background:url('../img/services-9-cloudbackup-icon.png') no-repeat center center/contain;height:14em}.m-dwHomepageBackup__details{display:flex;flex-flow:row wrap;justify-content:center;margin-bottom:3em}.m-dwHomepageBackup__details .h1{flex:0 1 100%;text-align:center;color:#1b305a;font-weight:600}.m-dwHomepageBackup__details .h3{padding:0 1em;text-align:center;margin-top:0}.a-dwHomepageBackup__description{text-align:left;padding:1em;margin-bottom:1.2em}.o-dwHomepage__rankingCoachSection{display:flex;flex-flow:row wrap;justify-content:center;margin-top:3em}.m-dwHomepageRankingCoach__container{display:flex;flex-flow:row wrap;justify-content:space-around;align-items:center}.m-dwHomepageRankingCoach__icon{display:flex;flex-flow:row wrap;justify-content:center;align-items:center;flex:0 1 100%}.a-dwHomepageRankingCoach__icon{width:20em;background:url('../img/services-5-rankingcoach-icon.png') no-repeat center center/contain;height:14em}.m-dwHomepageRankingCoach__details{display:flex;flex-flow:row wrap;justify-content:center;margin-bottom:3em}.m-dwHomepageRankingCoach__details .h1{flex:0 1 100%;text-align:center;color:#1b305a;font-weight:600}.m-dwHomepageRankingCoach__details .h3{padding:0 1em;text-align:center;margin-top:0}.a-dwHomepageRankingCoach__description{text-align:left;padding:1em;margin-bottom:1.2em}.o-dwHomepage__otherServicesSection{display:flex;flex-flow:row wrap;justify-content:center;margin-top:3em;margin-bottom:5em}.m-dwHomepageOtherServices__container{display:flex;flex-flow:row wrap;justify-content:center;align-items:center}.m-dwHomepageOtherServices__icon{display:flex;flex-flow:row wrap;justify-content:center;align-items:center;flex:0 1 100%}.a-dwHomepageOtherServices__icon{width:20em;height:auto}.a-dwHomepageOtherServices__icon.-dewapress{margin-top:3em}.m-dwHomepageOtherServices__details{display:flex;flex-flow:row wrap;justify-content:center}.m-dwHomepageOtherServices__details .h1{flex:0 1 100%;text-align:center;color:#1b305a;font-weight:600}.o-dwHomepageTestimonialsSection{background-color:#36c2dd;padding:1em 1em 4em;display:flex;flex-flow:row wrap;justify-content:center}.m-dwHomepageTestimonialsSection__container{max-width:1200px;width:100%;display:flex;flex-flow:row wrap;justify-content:space-around}.m-dwHomepageTestimonialsSection__container .h2{width:100%;color:#1b305a;letter-spacing:.2em;font-weight:600}.m-dwHomepageTestimonialsSection__testimonialCarousel{display:flex;flex-flow:row wrap;justify-content:space-around;width:100%}.m-dwHomepageTestimonialsSection__testimonialCarousel .carousel-control.left,.m-dwHomepageTestimonialsSection__testimonialCarousel .carousel-control.right{background:0 0;width:1%}.m-dwHomepageTestimonialsSection__testimonialCarousel .carousel-indicators{align-self:flex-end;margin-bottom:-3.5em}.m-dwHomepageTestimonialsSection__cardSet{display:flex;flex-flow:row wrap;justify-content:space-around;height:auto}.m-dwHomepageTestimonialsSection__testimonialCard{transition:.3s;width:18em;height:25em;border:1px solid #eee;border-radius:1em;box-shadow:0 4px 8px 0 rgba(0,0,0,.2);background-color:#fff;padding:1.5em;display:flex;flex-flow:row wrap;align-content:flex-start}.m-dwHomepageTestimonialsSection__testimonialCard:hover{box-shadow:0 8px 16px 0 rgba(0,0,0,.2)}.m-dwHomepageTestimonialsSection__cardProfile{display:flex;flex-flow:row wrap;height:6em}.a-dwHomepageTestimonialSection__iconPicture{font-family:open sans,sans-serif;color:#fff}.m-dwHomepageTestimonialsSection__profilePicture{flex:1 0 auto;max-width:4em;margin-right:1em}.m-dwHomepageTestimonialsSection__profileText{flex:1 0 auto;display:flex;flex-flow:column wrap;max-width:8em}.a-dwHomepageTestimonialsSection__reviewTitle{font-weight:600;width:100%}.m-dwHomepageTestimonialsSection__cardReviewContent{display:flex;flex-flow:row wrap;align-content:flex-start}.a-dwHomepageTestimonialsSection__cardReviewMsg{width:15em;word-wrap:break-word}.m-dwHomepageTestimonialsSection__btnGiveReview{width:100%;display:flex;flex-flow:row wrap;justify-content:center;margin-bottom:3em}.a-dwHomepageTestimonialsSection__btnGiveReview{margin-top:3em}.o-dwHomepageTestimonialsSection__videoTestimonial{max-width:800px;width:100%}.o-dwHomepageTestimonialsVideoSection{background-color:#36c2dd;padding:1em 1em 4em;display:flex;flex-flow:row wrap;justify-content:center}.m-dwHomepageTestimonialsVideoSection__container{max-width:1200px;width:100%;display:flex;flex-flow:row wrap;justify-content:space-around}.o-dwHomepageSupportSection{display:flex;flex-flow:row wrap;justify-content:center;background-color:#c7e6fa}.m-dwHomepageSupportSection__container{max-width:1200px;width:100%;padding:2em;display:flex;flex-flow:row wrap;justify-content:space-around;align-items:center}.m-dwHomepageSupportSection__profilePict{display:none}.m-dwHomepageSupportSection__contact{margin-bottom:1.5em;flex:1 0 100%}.m-dwHomepageSupportSection__contact .h1{margin:0;font-weight:600;text-align:center}.m-dwHomepageSupportSection__btnLiveChat{display:flex;flex-flow:row wrap;justify-content:center;align-items:center}.a-dwHomepageSupportSection__btnLiveChat{background-color:#f36523;color:#fff;border-style:solid;border-color:#f36523;border-width:1em 3em;border-radius:1em}.a-dwHomepageSupportSection__btnLiveChat:hover,.a-dwHomepageSupportSection__btnLiveChat:active,.a-dwHomepageSupportSection__btnLiveChat:focus{color:#fcd33a}.o-dwHomepagePartnerAccreditationSection{display:flex;flex-flow:row wrap;justify-content:space-around;padding:1em 1em 2em}.m-dwHomepagePartnerAccreditationSection__container{max-width:1200px;display:flex;flex-flow:row wrap;justify-content:space-around}.m-dwHomepagePartnerAccreditationSection__container .h3{width:100%;margin-bottom:2em;font-weight:600;letter-spacing:.2em}.m-dwHomepagePartnerAccreditationSection__iso{flex:1 0 100%;display:flex;flex-flow:row wrap;justify-content:center;align-items:center}.m-dwHomepagePartnerAccreditationSection__partners{flex:7 1 100%;display:flex;flex-flow:row wrap;justify-content:center;align-items:center;align-content:center}.m-dwHomepagePartnerAccreditationSection__certificationLogo{padding:1em}.m-dwHomepagePartnerAccreditationSection__partnerLogo{flex:0 1 50%;display:flex;justify-content:center;align-items:center}.m-dwHomepagePartnerAccreditationSection__partnerLogo img{width:100%}.m-dwHomepagePartnerAccreditationSection__partnerLogo.-thirdRow{padding-top:1em}@media only screen and (min-width:588px){.a-dwHomepageOtherServices__icon.-dewapress{margin-top:0}}@media only screen and (min-width:700px){.o-dwHomepage__servicesSection{background-size:100%,100%}}@media only screen and (min-width:768px){.o-dwHomepageBenefitsSection{background-size:80em}.m-dwHomepageBenefitsSection__benefitIcon.-fast{order:2}.m-dwHomepageBenefitsSection__descriptionLayer{flex:0 1 50%;display:flex;text-align:left;font-size:1.2em}.o-dwDomainSearch{background-size:10em,50em}.a-dwDomainSearch__inputSearchDomainIcon,.a-dwDomainSearch__inputDomainName{font-size:1.5em}.o-dwDomainSearch>a{font-size:1.2em}.m-dwHomepageCloudHosting__details .h1,.m-dwHomepageDewaGuard__details .h1,.m-dwHomepageRankingCoach__details .h1,.m-dwHomepageBackup__details .h1,.m-dwHomepageDewastore__details .h1{text-align:left}.m-dwHomepageCloudServer__details .h1,.m-dwHomepageCloudServer__details .h3,.m-dwHomepageSSL__details .h1,.m-dwHomepageSSL__details .h3{text-align:right}.m-dwHomepageCloudHosting__icon{flex:0 1 40%;justify-content:center}.a-dwHomepageCloudHosting__icon{width:20em;height:20em}.m-dwHomepageCloudHosting__details{flex:0 1 50%;justify-content:flex-start}.m-dwHomepageCloudHosting__details .h3{padding:0;text-align:left}.a-dwHomepageCloudHosting__description{text-align:left;padding:1em 1em 1em 0}.m-dwHomepageCloudServer__icon{flex:0 1 40%;order:2;justify-content:center}.a-dwHomepageCloudServer__icon{width:20em;height:20em}.m-dwHomepageCloudServer__details{flex:0 1 50%;justify-content:flex-end}.m-dwHomepageCloudServer__details .h3{padding:0;text-align:right;margin-top:0}.a-dwHomepageCloudServer__description{text-align:right;padding:1em 0 1em 1em}.m-dwHomepageDewaGuard__icon{flex:0 1 40%;justify-content:center}.a-dwHomepageDewaGuard__icon{width:20em;height:20em}.m-dwHomepageDewaGuard__details{flex:0 1 50%;justify-content:flex-start}.m-dwHomepageDewaGuard__details .h3{padding:0;text-align:left}.a-dwHomepageDewaGuard__description{text-align:left;padding:1em 1em 1em 0}.m-dwHomepageSSL__icon{flex:0 1 40%;order:2;justify-content:center}.a-dwHomepageSSL__icon{width:20em;height:20em}.m-dwHomepageSSL__details{flex:0 1 50%;justify-content:flex-end}.m-dwHomepageSSL__details .h3{padding:0;text-align:right}.a-dwHomepageSSL__description{text-align:right;padding:1em 0 1em 1em}.m-dwHomepageRankingCoach__icon{flex:0 1 40%;justify-content:center}.a-dwHomepageRankingCoach__icon{width:20em;height:20em}.m-dwHomepageRankingCoach__details{flex:0 1 50%;justify-content:flex-start}.m-dwHomepageRankingCoach__details .h3{padding:0;text-align:left}.a-dwHomepageRankingCoach__description{text-align:left;padding:1em 1em 1em 0}.m-dwHomepageBackup__icon{flex:0 1 40%;justify-content:center}.a-dwHomepageBackup__icon{width:20em;height:20em}.m-dwHomepageBackup__details{flex:0 1 50%;justify-content:flex-start}.m-dwHomepageBackup__details .h3{padding:0;text-align:left}.a-dwHomepageBackup__description{text-align:left;padding:1em 1em 1em 0}.m-dwHomepageDewastore__icon{flex:0 1 40%;justify-content:center}.a-dwHomepageDewastore__icon{width:20em;height:20em}.m-dwHomepageDewastore__details{flex:0 1 50%;justify-content:flex-start}.m-dwHomepageDewastore__details .h3{padding:0;text-align:left}.a-dwHomepageDewastore__description{text-align:left;padding:1em 1em 1em 0}.m-dwHomepageOtherServices__icon{flex:1 0 100%;display:flex;flex-flow:row wrap;justify-content:center;order:2;background-position:left center}.m-dwHomepageOtherServices__details{flex:1 0 100%;justify-content:center}.a-dwHomepageOtherServices__icon{margin:0 2em}.m-dwHomepagePartnerAccreditationSection__partnerLogo{flex:0 1 33.3%}}@media only screen and (min-width:992px){.o-dwHomepageBenefitsSection{background-size:100%}.o-dwDomainSearch{background-size:15em,50%}.o-dwHomepage__servicesSection{padding:5em 1em 8em}.m-dwHomepageCloudHosting__icon{flex:0 1 50%}.a-dwHomepageCloudHosting__icon{width:25em;height:25em}.m-dwHomepageCloudServer__icon{flex:0 1 50%}.a-dwHomepageCloudServer__icon{width:25em;height:25em}.m-dwHomepageDewaGuard__icon{flex:0 1 50%}.a-dwHomepageDewaGuard__icon{width:25em;height:25em}.m-dwHomepageSSL__icon{flex:0 1 50%}.a-dwHomepageSSL__icon{width:25em;height:25em}.m-dwHomepageRankingCoach__icon{flex:0 1 50%}.a-dwHomepageRankingCoach__icon{width:25em;height:25em}.m-dwHomepageBackup__icon{flex:0 1 50%}.a-dwHomepageBackup__icon{width:25em;height:25em}.m-dwHomepageDewastore__icon{flex:0 1 50%}.a-dwHomepageDewastore__icon{width:25em;height:25em}.o-dwHomepageTestimonialsSection{padding:1em 1em 12em}.m-dwHomepageTestimonialsSection__testimonialCard{width:30em}.a-dwHomepageTestimonialsSection__cardReviewMsg{width:27em}.o-dwHomepageTestimonialsVideoSection{padding:1em 1em 4em}.m-dwHomepageSupportSection__container{position:relative}.m-dwHomepageSupportSection__profilePict{display:block;position:absolute;left:0;bottom:0}.m-dwHomepageSupportSection__contact,.m-dwHomepageSupportSection__btnLiveChat{margin-left:14em}.m-dwHomepagePartnerAccreditationSection__iso{flex:1 0 17%}.m-dwHomepagePartnerAccreditationSection__partners{flex:7 1 83%;justify-content:flex-start}.m-dwHomepagePartnerAccreditationSection__partnerLogo{flex:0 1 16.6%}}@media only screen and (min-width:768px) and (max-width:1190px) and (orientation:landscape){.m-dwHomepageBenefitsSection__benefit{flex:0 1 23em;align-items:flex-start}.m-dwHomepageBenefitsSection__benefitIcon.-secure{flex:0 1 18.05em}.m-dwHomepageBenefitsSection__benefitIcon.-fast{flex:0 1 23em;height:22em}.m-dwHomepageBenefitsSection__benefitIcon.-reliable{flex:0 1 20.25em}.m-dwHomepageBenefitsSection__descriptionLayer{flex:1 0 80%}.m-dwHomepageBenefitsSection__benefitIcon.-fast{order:initial}}@media only screen and (min-width:1200px){.m-dwHomepageBenefitsSection__container{margin-bottom:18vh}.o-dwHomepageBenefitsSection{background-size:100%}.m-dwHomepageBenefitsSection__benefit{flex:0 1 25em}.m-dwHomepageBenefitsSection__benefitCrossFader{position:relative;cursor:pointer;align-items:center;display:block}.m-dwHomepageBenefitsSection__benefitIcon.-secure{width:18.05em}.m-dwHomepageBenefitsSection__benefitIcon.-fast{width:23em}.m-dwHomepageBenefitsSection__benefitIcon.-reliable{width:20.25em}.m-dwHomepageBenefitsSection__descriptionLayer{position:absolute;top:0;bottom:0;opacity:0;padding:1em;text-align:left;transform:translateY(1em);transition:opacity .5s ease-in-out,transform .5s ease-in-out;font-size:1.08em}.m-dwHomepageBenefitsSection__benefitCrossFader img{transition:opacity .5s ease-in-out}.m-dwHomepageBenefitsSection__benefitCrossFader:hover img{opacity:0}.m-dwHomepageBenefitsSection__benefitCrossFader:hover .m-dwHomepageBenefitsSection__descriptionLayer{transform:translateY(0);opacity:1}.o-dwDomainSearch{background-position:78% 0%,left top;padding:11em 1em 2em}.o-dwHomepage__servicesSection{padding:8em 1em 15em}.m-dwHomepageCloudHosting__container{justify-content:center}.m-dwHomepageCloudHosting__icon{flex:0 1 35%}.a-dwHomepageCloudHosting__icon{width:40em;height:30em;margin-left:0;margin-right:5em}.m-dwHomepageCloudHosting__details{flex:0 1 45%;font-size:1.2em;line-height:1.5em}.o-dwHomepage__cloudServerSection{margin-top:0}.m-dwHomepageCloudServer__container{justify-content:center}.m-dwHomepageCloudServer__icon{flex:0 1 35%}.a-dwHomepageCloudServer__icon{width:40em;height:30em;margin-left:5em}.m-dwHomepageCloudServer__details{flex:0 1 45%;font-size:1.2em;line-height:1.5em}.m-dwHomepageDewaGuard__container{justify-content:center}.m-dwHomepageDewaGuard__icon{flex:0 1 35%}.a-dwHomepageDewaGuard__icon{width:40em;height:30em;margin-left:0;margin-right:5em}.m-dwHomepageDewaGuard__details{flex:0 1 45%;font-size:1.2em;line-height:1.5em}.m-dwHomepageSSL__container{justify-content:center}.m-dwHomepageSSL__icon{flex:0 1 35%}.a-dwHomepageSSL__icon{width:40em;height:30em;margin-left:5em}.m-dwHomepageSSL__details{flex:0 1 45%;font-size:1.2em;line-height:1.5em}.m-dwHomepageRankingCoach__container{justify-content:center}.m-dwHomepageRankingCoach__icon{flex:0 1 35%}.a-dwHomepageRankingCoach__icon{width:40em;height:30em;margin-left:0;margin-right:5em}.m-dwHomepageRankingCoach__details{flex:0 1 45%;font-size:1.2em;line-height:1.5em}.m-dwHomepageBackup__container{justify-content:center}.m-dwHomepageBackup__icon{flex:0 1 35%}.a-dwHomepageBackup__icon{width:40em;height:30em;margin-left:0;margin-right:5em}.m-dwHomepageBackup__details{flex:0 1 45%;font-size:1.2em;line-height:1.5em}.m-dwHomepageDewastore__container{justify-content:center}.m-dwHomepageDewastore__icon{flex:0 1 35%}.a-dwHomepageDewastore__icon{width:40em;height:30em;margin-left:0;margin-right:5em}.m-dwHomepageDewastore__details{flex:0 1 45%;font-size:1.2em;line-height:1.5em}.m-dwHomepageOtherServices__details{font-size:1.2em;line-height:1.5em}.a-dwHomepageOtherServices__icon{width:30em;height:auto}.m-dwHomepageTestimonialsSection__testimonialCard{width:24em}.a-dwHomepageTestimonialsSection__cardReviewMsg{width:21em}.m-dwHomepageSupportSection__contact{margin-bottom:0;flex:1 1 auto}.m-dwHomepageSupportSection__btnLiveChat{margin-left:0}}@media only screen and (min-width:2100px){.o-dwDomainSearch{background-position:67% 0%,left top}.o-dwHomepage__servicesSection{padding:10em 1em 18em}.m-dwHomepageCloudHosting__details{flex:0 1 35%}.m-dwHomepageCloudHosting__container{justify-content:center}.m-dwHomepageCloudServer__details{flex:0 1 35%}.m-dwHomepageCloudServer__container{justify-content:center}.m-dwHomepageDewaGuard__details{flex:0 1 35%}.m-dwHomepageDewaGuard__container{justify-content:center}.m-dwHomepageSSL__details{flex:0 1 35%}.m-dwHomepageSSL__container{justify-content:center}.m-dwHomepageRankingCoach__details{flex:0 1 35%}.m-dwHomepageRankingCoach__container{justify-content:center}.m-dwHomepageBackup__details{flex:0 1 35%}.m-dwHomepageBackup__container{justify-content:center}.m-dwHomepageDewastore__details{flex:0 1 35%}.m-dwHomepageDewastore__container{justify-content:center}}@media only screen and (min-width:2400px){.o-dwHomepage__servicesSection{padding:15em 1em 28em}}@media only screen and (min-width:2560px){.a-dwHomepageCloudHosting__icon,.a-dwHomepageCloudServer__icon,.a-dwHomepageDewaGuard__icon,.a-dwHomepageSSL__icon,.a-dwHomepageRankingCoach__icon,.a-dwHomepageBackup__icon,.a-dwHomepageDewastore__icon{width:50em;height:40em}}@media only screen and (min-width:3400px){.o-dwHomepage__servicesSection{padding:20em 1em 32em}}
+.revslider {
+  min-height: 100vh
+}
+
+.dwFeatureCheck {
+  color: #a5d6a7
+}
+
+.a-dwTextOrange {
+  color: #f26522
+}
+
+.o-dwHomepageBenefitsSection {
+  background: url('../img/section-benefits-cloud-bottom.png') no-repeat center bottom/70em, #00b3c8;
+  padding: 1em 1em 4em;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center
+}
+
+.m-dwHomepageBenefitsSection__container {
+  max-width: 1200px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: flex-start
+}
+
+.m-dwHomepageBenefitsSection__container .h3 {
+  font-weight: 600;
+  color: #1b305a;
+  letter-spacing: .2em
+}
+
+.m-dwHomepageBenefitsSection__container .h3,
+.m-dwHomepageBenefitsSection__container .h4 {
+  width: 100%
+}
+
+.m-dwHomepageBenefitsSection__container .h4 {
+  margin-top: 1.5em;
+  margin-bottom: .5em;
+  line-height: 1.4em;
+  color: #fff
+}
+
+.m-dwHomepageBenefitsSection__benefit {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  padding: 1em
+}
+
+.m-dwHomepageBenefitsSection__container {
+  margin-bottom: 10vh
+}
+
+.m-dwHomepageBenefitsSection__benefitCrossFader {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around
+}
+
+.m-dwHomepageBenefitsSection__benefitIcon.-secure {
+  flex: 0 1 18.05em
+}
+
+.m-dwHomepageBenefitsSection__benefitIcon.-fast {
+  flex: 0 1 23em
+}
+
+.m-dwHomepageBenefitsSection__benefitIcon.-reliable {
+  flex: 0 1 20.25em
+}
+
+.m-dwHomepageBenefitsSection__descriptionLayer {
+  text-align: left;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  line-height: 1.6em
+}
+
+.m-dwHomepageBenefitsSection__descriptionLayer p {
+  line-height: 1.6em
+}
+
+.m-dwHomepageBenefitsSection__descriptionLayer ul li {
+  list-style: none
+}
+
+.o-dwDomainSearch {
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: auto;
+  background: url(../img/section-domain-gratis-emblem.png) no-repeat right top, url(../img/section-domain-asset-top.png) no-repeat left top, #57bbd9;
+  background-size: 9em, 35em;
+  padding: 7em 1em 2em
+}
+
+.o-dwDomainSearch .h3 {
+  margin-bottom: 1em;
+  font-weight: 600;
+  letter-spacing: .2em;
+  color: #1b305a
+}
+
+.o-dwDomainSearch .h4:nth-child(2) {
+  margin-bottom: 2em
+}
+
+.o-dwDomainSearch>.h4 {
+  color: #fff
+}
+
+.o-dwDomainSearch>a {
+  font-size: .98em;
+  border-bottom: 2px dotted #8dd5ef;
+  transition: all .2s ease-in-out;
+  margin-top: 1.5em
+}
+
+.o-dwDomainSearch>a:hover {
+  color: #fff;
+  border-bottom: 2px solid #8dd5ef;
+  transition: all .2s ease-in-out
+}
+
+.dwDomainSearch__form {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  max-width: 50em;
+  width: 100%
+}
+
+.m-dwDomainSearch__formContainer {
+  flex: 1 1 100%
+}
+
+.domain-spotlight {
+  margin-bottom: 1em
+}
+
+.tld-item {
+  display: flex;
+  align-items: center
+}
+
+.tld-item>*:not(:last-child) {
+  margin-right: .8em
+}
+
+.tld-item p {
+  margin: 0 0 5px;
+  display: flex
+}
+
+.domain-currency {
+  font-size: 10px;
+  display: flex
+}
+
+.tld-image {
+  max-width: 110px
+}
+
+.tld-price--home-page {
+  font-size: 16px;
+  color: #1b305a
+}
+
+span.input-group-addon,
+span.input-group-btn {
+  vertical-align: bottom
+}
+
+.o-dwHomepage__servicesSection {
+  width: 100%;
+  background: url('../img/section-cloud-hosting-assets-top.png') no-repeat center top, url('../img/section-services-bottom.png') no-repeat center bottom, linear-gradient(140.29344225303055deg, rgba(199, 228, 248, 1) 31.0740878629933%, rgba(198, 227, 247, 1) 31.0740878629933%, rgba(116, 206, 226, 1) 69.27215189873418%) fixed;
+  padding: 5em 1em;
+  background-size: 50em, 50em
+}
+
+.o-dwHomepage__cloudHostingSection {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center
+}
+
+.m-dwHomepageCloudHosting__container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-items: center
+}
+
+.m-dwHomepageCloudHosting__icon {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  flex: 0 1 100%
+}
+
+.a-dwHomepageCloudHosting__icon {
+  width: 20em;
+  background: url('../img/service/service-1.png') no-repeat center center/contain;
+  margin-left: 1.5em;
+  height: 14em
+}
+
+.m-dwHomepageCloudHosting__details {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin-bottom: 3em
+}
+
+.m-dwHomepageCloudHosting__details .h1 {
+  flex: 0 1 100%;
+  text-align: center;
+  color: #1b305a;
+  font-weight: 600
+}
+
+.m-dwHomepageCloudHosting__details .h3 {
+  padding: 0 1em;
+  text-align: center;
+  margin-top: 0
+}
+
+.a-dwHomepageCloudHosting__description {
+  text-align: left;
+  padding: 1em;
+  margin-bottom: 1.2em
+}
+
+.o-dwHomepage__cloudServerSection {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin-top: 3em
+}
+
+.m-dwHomepageCloudServer__container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-items: center
+}
+
+.m-dwHomepageCloudServer__icon {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  flex: 0 1 100%
+}
+
+.a-dwHomepageCloudServer__icon {
+  width: 20em;
+  background: url('../img/service/service-2.png') no-repeat center center/contain;
+  margin-left: 1.5em;
+  height: 14em
+}
+
+.m-dwHomepageCloudServer__details {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin-bottom: 3em
+}
+
+.m-dwHomepageCloudServer__details .h1 {
+  flex: 0 1 100%;
+  text-align: center;
+  color: #1b305a;
+  font-weight: 600
+}
+
+.m-dwHomepageCloudServer__details .h3 {
+  padding: 0 1em;
+  text-align: center;
+  margin-top: 0
+}
+
+.a-dwHomepageCloudServer__description {
+  text-align: left;
+  padding: 1em;
+  margin-bottom: 1.2em
+}
+
+.o-dwHomepage__dewaGuardSection {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin-top: 3em
+}
+
+.m-dwHomepageDewaGuard__container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-items: center
+}
+
+.m-dwHomepageDewaGuard__icon {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  flex: 0 1 100%
+}
+
+.a-dwHomepageDewaGuard__icon {
+  width: 20em;
+  background: url('../img/services-3-dewaguard-icon.png') no-repeat center center/contain;
+  margin-left: 1.5em;
+  height: 14em
+}
+
+.m-dwHomepageDewaGuard__details {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin-bottom: 3em
+}
+
+.m-dwHomepageDewaGuard__details .h1 {
+  flex: 0 1 100%;
+  text-align: center;
+  color: #1b305a;
+  font-weight: 600
+}
+
+.m-dwHomepageDewaGuard__details .h3 {
+  padding: 0 1em;
+  text-align: center;
+  margin-top: 0
+}
+
+.a-dwHomepageDewaGuard__description {
+  text-align: left;
+  padding: 1em
+}
+
+.a-dwHomepageDewaGuard__comingSoon {
+  margin-top: 0
+}
+
+.o-dwHomepage__SSLSection {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin-top: 3em
+}
+
+.m-dwHomepageSSL__container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-items: center;
+  padding-bottom: 5em
+}
+
+.m-dwHomepageSSL__icon {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  flex: 0 1 100%
+}
+
+.a-dwHomepageSSL__icon {
+  width: 20em;
+  background: url('../img/services-4-sslcertificates-icon.png') no-repeat center center/contain;
+  margin-left: 1.5em;
+  height: 14em
+}
+
+.m-dwHomepageSSL__details {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin-bottom: 3em
+}
+
+.m-dwHomepageSSL__details .h1 {
+  flex: 0 1 100%;
+  text-align: center;
+  color: #1b305a;
+  font-weight: 600
+}
+
+.m-dwHomepageSSL__details .h3 {
+  padding: 0 1em;
+  text-align: center;
+  margin-top: 0
+}
+
+.a-dwHomepageSSL__description {
+  text-align: left;
+  padding: 1em;
+  margin-bottom: 1.2em
+}
+
+.o-dwHomepage__dewastoreSection {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin-top: 3em
+}
+
+.m-dwHomepageDewastore__container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-items: center
+}
+
+.m-dwHomepageDewastore__icon {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  flex: 0 1 100%
+}
+
+.a-dwHomepageDewastore__icon {
+  width: 20em;
+  background: url('../img/services-8-dewastore-icon.png') no-repeat center center/contain;
+  height: 14em
+}
+
+.m-dwHomepageDewastore__details {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin-bottom: 3em
+}
+
+.m-dwHomepageDewastore__details .h1 {
+  flex: 0 1 100%;
+  text-align: center;
+  color: #1b305a;
+  font-weight: 600
+}
+
+.m-dwHomepageDewastore__details .h3 {
+  padding: 0 1em;
+  text-align: center;
+  margin-top: 0
+}
+
+.a-dwHomepageDewastore__description {
+  text-align: left;
+  padding: 1em;
+  margin-bottom: 1.2em
+}
+
+.o-dwHomepage__backupSection {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin-top: 3em
+}
+
+.m-dwHomepageBackup__container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-items: center
+}
+
+.m-dwHomepageBackup__icon {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  flex: 0 1 100%
+}
+
+.a-dwHomepageBackup__icon {
+  width: 20em;
+  background: url('../img/services-9-cloudbackup-icon.png') no-repeat center center/contain;
+  height: 14em
+}
+
+.m-dwHomepageBackup__details {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin-bottom: 3em
+}
+
+.m-dwHomepageBackup__details .h1 {
+  flex: 0 1 100%;
+  text-align: center;
+  color: #1b305a;
+  font-weight: 600
+}
+
+.m-dwHomepageBackup__details .h3 {
+  padding: 0 1em;
+  text-align: center;
+  margin-top: 0
+}
+
+.a-dwHomepageBackup__description {
+  text-align: left;
+  padding: 1em;
+  margin-bottom: 1.2em
+}
+
+.o-dwHomepage__rankingCoachSection {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin-top: 3em
+}
+
+.m-dwHomepageRankingCoach__container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-items: center
+}
+
+.m-dwHomepageRankingCoach__icon {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  flex: 0 1 100%
+}
+
+.a-dwHomepageRankingCoach__icon {
+  width: 20em;
+  background: url('../img/services-5-rankingcoach-icon.png') no-repeat center center/contain;
+  height: 14em
+}
+
+.m-dwHomepageRankingCoach__details {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin-bottom: 3em
+}
+
+.m-dwHomepageRankingCoach__details .h1 {
+  flex: 0 1 100%;
+  text-align: center;
+  color: #1b305a;
+  font-weight: 600
+}
+
+.m-dwHomepageRankingCoach__details .h3 {
+  padding: 0 1em;
+  text-align: center;
+  margin-top: 0
+}
+
+.a-dwHomepageRankingCoach__description {
+  text-align: left;
+  padding: 1em;
+  margin-bottom: 1.2em
+}
+
+.o-dwHomepage__otherServicesSection {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin-top: 3em;
+  margin-bottom: 5em
+}
+
+.m-dwHomepageOtherServices__container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center
+}
+
+.m-dwHomepageOtherServices__icon {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  flex: 0 1 100%
+}
+
+.a-dwHomepageOtherServices__icon {
+  width: 20em;
+  height: auto
+}
+
+.a-dwHomepageOtherServices__icon.-dewapress {
+  margin-top: 3em
+}
+
+.m-dwHomepageOtherServices__details {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center
+}
+
+.m-dwHomepageOtherServices__details .h1 {
+  flex: 0 1 100%;
+  text-align: center;
+  color: #1b305a;
+  font-weight: 600
+}
+
+.o-dwHomepageTestimonialsSection {
+  background-color: #36c2dd;
+  padding: 1em 1em 4em;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center
+}
+
+.m-dwHomepageTestimonialsSection__container {
+  max-width: 1200px;
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around
+}
+
+.m-dwHomepageTestimonialsSection__container .h2 {
+  width: 100%;
+  color: #1b305a;
+  letter-spacing: .2em;
+  font-weight: 600
+}
+
+.m-dwHomepageTestimonialsSection__testimonialCarousel {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  width: 100%
+}
+
+.m-dwHomepageTestimonialsSection__testimonialCarousel .carousel-control.left,
+.m-dwHomepageTestimonialsSection__testimonialCarousel .carousel-control.right {
+  background: 0 0;
+  width: 1%
+}
+
+.m-dwHomepageTestimonialsSection__testimonialCarousel .carousel-indicators {
+  align-self: flex-end;
+  margin-bottom: -3.5em
+}
+
+.m-dwHomepageTestimonialsSection__cardSet {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  height: auto
+}
+
+.m-dwHomepageTestimonialsSection__testimonialCard {
+  transition: .3s;
+  width: 18em;
+  height: 25em;
+  border: 1px solid #eee;
+  border-radius: 1em;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, .2);
+  background-color: #fff;
+  padding: 1.5em;
+  display: flex;
+  flex-flow: row wrap;
+  align-content: flex-start
+}
+
+.m-dwHomepageTestimonialsSection__testimonialCard:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, .2)
+}
+
+.m-dwHomepageTestimonialsSection__cardProfile {
+  display: flex;
+  flex-flow: row wrap;
+  height: 6em
+}
+
+.a-dwHomepageTestimonialSection__iconPicture {
+  font-family: open sans, sans-serif;
+  color: #fff
+}
+
+.m-dwHomepageTestimonialsSection__profilePicture {
+  flex: 1 0 auto;
+  max-width: 4em;
+  margin-right: 1em
+}
+
+.m-dwHomepageTestimonialsSection__profileText {
+  flex: 1 0 auto;
+  display: flex;
+  flex-flow: column wrap;
+  max-width: 8em
+}
+
+.a-dwHomepageTestimonialsSection__reviewTitle {
+  font-weight: 600;
+  width: 100%
+}
+
+.m-dwHomepageTestimonialsSection__cardReviewContent {
+  display: flex;
+  flex-flow: row wrap;
+  align-content: flex-start
+}
+
+.a-dwHomepageTestimonialsSection__cardReviewMsg {
+  width: 15em;
+  word-wrap: break-word
+}
+
+.m-dwHomepageTestimonialsSection__btnGiveReview {
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  margin-bottom: 3em
+}
+
+.a-dwHomepageTestimonialsSection__btnGiveReview {
+  margin-top: 3em
+}
+
+.o-dwHomepageTestimonialsSection__videoTestimonial {
+  max-width: 800px;
+  width: 100%
+}
+
+.o-dwHomepageTestimonialsVideoSection {
+  background-color: #36c2dd;
+  padding: 1em 1em 4em;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center
+}
+
+.m-dwHomepageTestimonialsVideoSection__container {
+  max-width: 1200px;
+  width: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around
+}
+
+.o-dwHomepageSupportSection {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  background-color: #c7e6fa
+}
+
+.m-dwHomepageSupportSection__container {
+  max-width: 1200px;
+  width: 100%;
+  padding: 2em;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-items: center
+}
+
+.m-dwHomepageSupportSection__profilePict {
+  display: none
+}
+
+.m-dwHomepageSupportSection__contact {
+  margin-bottom: 1.5em;
+  flex: 1 0 100%
+}
+
+.m-dwHomepageSupportSection__contact .h1 {
+  margin: 0;
+  font-weight: 600;
+  text-align: center
+}
+
+.m-dwHomepageSupportSection__btnLiveChat {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center
+}
+
+.a-dwHomepageSupportSection__btnLiveChat {
+  background-color: #f36523;
+  color: #fff;
+  border-style: solid;
+  border-color: #f36523;
+  border-width: 1em 3em;
+  border-radius: 1em
+}
+
+.a-dwHomepageSupportSection__btnLiveChat:hover,
+.a-dwHomepageSupportSection__btnLiveChat:active,
+.a-dwHomepageSupportSection__btnLiveChat:focus {
+  color: #fcd33a
+}
+
+.o-dwHomepagePartnerAccreditationSection {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  padding: 1em 1em 2em
+}
+
+.m-dwHomepagePartnerAccreditationSection__container {
+  max-width: 1200px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around
+}
+
+.m-dwHomepagePartnerAccreditationSection__container .h3 {
+  width: 100%;
+  margin-bottom: 2em;
+  font-weight: 600;
+  letter-spacing: .2em
+}
+
+.m-dwHomepagePartnerAccreditationSection__iso {
+  flex: 1 0 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center
+}
+
+.m-dwHomepagePartnerAccreditationSection__partners {
+  flex: 7 1 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center
+}
+
+.m-dwHomepagePartnerAccreditationSection__certificationLogo {
+  padding: 1em
+}
+
+.m-dwHomepagePartnerAccreditationSection__partnerLogo {
+  flex: 0 1 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center
+}
+
+.m-dwHomepagePartnerAccreditationSection__partnerLogo img {
+  width: 100%
+}
+
+.m-dwHomepagePartnerAccreditationSection__partnerLogo.-thirdRow {
+  padding-top: 1em
+}
+
+@media only screen and (min-width:588px) {
+  .a-dwHomepageOtherServices__icon.-dewapress {
+    margin-top: 0
+  }
+}
+
+@media only screen and (min-width:700px) {
+  .o-dwHomepage__servicesSection {
+    background-size: 100%, 100%
+  }
+}
+
+@media only screen and (min-width:768px) {
+  .o-dwHomepageBenefitsSection {
+    background-size: 80em
+  }
+
+  .m-dwHomepageBenefitsSection__benefitIcon.-fast {
+    order: 2
+  }
+
+  .m-dwHomepageBenefitsSection__descriptionLayer {
+    flex: 0 1 50%;
+    display: flex;
+    text-align: left;
+    font-size: 1.2em
+  }
+
+  .o-dwDomainSearch {
+    background-size: 10em, 50em
+  }
+
+  .a-dwDomainSearch__inputSearchDomainIcon,
+  .a-dwDomainSearch__inputDomainName {
+    font-size: 1.5em
+  }
+
+  .o-dwDomainSearch>a {
+    font-size: 1.2em
+  }
+
+  .m-dwHomepageCloudHosting__details .h1,
+  .m-dwHomepageDewaGuard__details .h1,
+  .m-dwHomepageRankingCoach__details .h1,
+  .m-dwHomepageBackup__details .h1,
+  .m-dwHomepageDewastore__details .h1 {
+    text-align: left
+  }
+
+  .m-dwHomepageCloudServer__details .h1,
+  .m-dwHomepageCloudServer__details .h3,
+  .m-dwHomepageSSL__details .h1,
+  .m-dwHomepageSSL__details .h3 {
+    text-align: right
+  }
+
+  .m-dwHomepageCloudHosting__icon {
+    flex: 0 1 40%;
+    justify-content: center
+  }
+
+  .a-dwHomepageCloudHosting__icon {
+    width: 20em;
+    height: 20em
+  }
+
+  .m-dwHomepageCloudHosting__details {
+    flex: 0 1 50%;
+    justify-content: flex-start
+  }
+
+  .m-dwHomepageCloudHosting__details .h3 {
+    padding: 0;
+    text-align: left
+  }
+
+  .a-dwHomepageCloudHosting__description {
+    text-align: left;
+    padding: 1em 1em 1em 0
+  }
+
+  .m-dwHomepageCloudServer__icon {
+    flex: 0 1 40%;
+    order: 2;
+    justify-content: center
+  }
+
+  .a-dwHomepageCloudServer__icon {
+    width: 20em;
+    height: 20em
+  }
+
+  .m-dwHomepageCloudServer__details {
+    flex: 0 1 50%;
+    justify-content: flex-end
+  }
+
+  .m-dwHomepageCloudServer__details .h3 {
+    padding: 0;
+    text-align: right;
+    margin-top: 0
+  }
+
+  .a-dwHomepageCloudServer__description {
+    text-align: right;
+    padding: 1em 0 1em 1em
+  }
+
+  .m-dwHomepageDewaGuard__icon {
+    flex: 0 1 40%;
+    justify-content: center
+  }
+
+  .a-dwHomepageDewaGuard__icon {
+    width: 20em;
+    height: 20em
+  }
+
+  .m-dwHomepageDewaGuard__details {
+    flex: 0 1 50%;
+    justify-content: flex-start
+  }
+
+  .m-dwHomepageDewaGuard__details .h3 {
+    padding: 0;
+    text-align: left
+  }
+
+  .a-dwHomepageDewaGuard__description {
+    text-align: left;
+    padding: 1em 1em 1em 0
+  }
+
+  .m-dwHomepageSSL__icon {
+    flex: 0 1 40%;
+    order: 2;
+    justify-content: center
+  }
+
+  .a-dwHomepageSSL__icon {
+    width: 20em;
+    height: 20em
+  }
+
+  .m-dwHomepageSSL__details {
+    flex: 0 1 50%;
+    justify-content: flex-end
+  }
+
+  .m-dwHomepageSSL__details .h3 {
+    padding: 0;
+    text-align: right
+  }
+
+  .a-dwHomepageSSL__description {
+    text-align: right;
+    padding: 1em 0 1em 1em
+  }
+
+  .m-dwHomepageRankingCoach__icon {
+    flex: 0 1 40%;
+    justify-content: center
+  }
+
+  .a-dwHomepageRankingCoach__icon {
+    width: 20em;
+    height: 20em
+  }
+
+  .m-dwHomepageRankingCoach__details {
+    flex: 0 1 50%;
+    justify-content: flex-start
+  }
+
+  .m-dwHomepageRankingCoach__details .h3 {
+    padding: 0;
+    text-align: left
+  }
+
+  .a-dwHomepageRankingCoach__description {
+    text-align: left;
+    padding: 1em 1em 1em 0
+  }
+
+  .m-dwHomepageBackup__icon {
+    flex: 0 1 40%;
+    justify-content: center
+  }
+
+  .a-dwHomepageBackup__icon {
+    width: 20em;
+    height: 20em
+  }
+
+  .m-dwHomepageBackup__details {
+    flex: 0 1 50%;
+    justify-content: flex-start
+  }
+
+  .m-dwHomepageBackup__details .h3 {
+    padding: 0;
+    text-align: left
+  }
+
+  .a-dwHomepageBackup__description {
+    text-align: left;
+    padding: 1em 1em 1em 0
+  }
+
+  .m-dwHomepageDewastore__icon {
+    flex: 0 1 40%;
+    justify-content: center
+  }
+
+  .a-dwHomepageDewastore__icon {
+    width: 20em;
+    height: 20em
+  }
+
+  .m-dwHomepageDewastore__details {
+    flex: 0 1 50%;
+    justify-content: flex-start
+  }
+
+  .m-dwHomepageDewastore__details .h3 {
+    padding: 0;
+    text-align: left
+  }
+
+  .a-dwHomepageDewastore__description {
+    text-align: left;
+    padding: 1em 1em 1em 0
+  }
+
+  .m-dwHomepageOtherServices__icon {
+    flex: 1 0 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    order: 2;
+    background-position: left center
+  }
+
+  .m-dwHomepageOtherServices__details {
+    flex: 1 0 100%;
+    justify-content: center
+  }
+
+  .a-dwHomepageOtherServices__icon {
+    margin: 0 2em
+  }
+
+  .m-dwHomepagePartnerAccreditationSection__partnerLogo {
+    flex: 0 1 33.3%
+  }
+}
+
+@media only screen and (min-width:992px) {
+  .o-dwHomepageBenefitsSection {
+    background-size: 100%
+  }
+
+  .o-dwDomainSearch {
+    background-size: 15em, 50%
+  }
+
+  .o-dwHomepage__servicesSection {
+    padding: 5em 1em 8em
+  }
+
+  .m-dwHomepageCloudHosting__icon {
+    flex: 0 1 50%
+  }
+
+  .a-dwHomepageCloudHosting__icon {
+    width: 25em;
+    height: 25em
+  }
+
+  .m-dwHomepageCloudServer__icon {
+    flex: 0 1 50%
+  }
+
+  .a-dwHomepageCloudServer__icon {
+    width: 25em;
+    height: 25em
+  }
+
+  .m-dwHomepageDewaGuard__icon {
+    flex: 0 1 50%
+  }
+
+  .a-dwHomepageDewaGuard__icon {
+    width: 25em;
+    height: 25em
+  }
+
+  .m-dwHomepageSSL__icon {
+    flex: 0 1 50%
+  }
+
+  .a-dwHomepageSSL__icon {
+    width: 25em;
+    height: 25em
+  }
+
+  .m-dwHomepageRankingCoach__icon {
+    flex: 0 1 50%
+  }
+
+  .a-dwHomepageRankingCoach__icon {
+    width: 25em;
+    height: 25em
+  }
+
+  .m-dwHomepageBackup__icon {
+    flex: 0 1 50%
+  }
+
+  .a-dwHomepageBackup__icon {
+    width: 25em;
+    height: 25em
+  }
+
+  .m-dwHomepageDewastore__icon {
+    flex: 0 1 50%
+  }
+
+  .a-dwHomepageDewastore__icon {
+    width: 25em;
+    height: 25em
+  }
+
+  .o-dwHomepageTestimonialsSection {
+    padding: 1em 1em 12em
+  }
+
+  .m-dwHomepageTestimonialsSection__testimonialCard {
+    width: 30em
+  }
+
+  .a-dwHomepageTestimonialsSection__cardReviewMsg {
+    width: 27em
+  }
+
+  .o-dwHomepageTestimonialsVideoSection {
+    padding: 1em 1em 4em
+  }
+
+  .m-dwHomepageSupportSection__container {
+    position: relative
+  }
+
+  .m-dwHomepageSupportSection__profilePict {
+    display: block;
+    position: absolute;
+    left: 0;
+    bottom: 0
+  }
+
+  .m-dwHomepageSupportSection__contact,
+  .m-dwHomepageSupportSection__btnLiveChat {
+    margin-left: 14em
+  }
+
+  .m-dwHomepagePartnerAccreditationSection__iso {
+    flex: 1 0 17%
+  }
+
+  .m-dwHomepagePartnerAccreditationSection__partners {
+    flex: 7 1 83%;
+    justify-content: flex-start
+  }
+
+  .m-dwHomepagePartnerAccreditationSection__partnerLogo {
+    flex: 0 1 16.6%
+  }
+}
+
+@media only screen and (min-width:768px) and (max-width:1190px) and (orientation:landscape) {
+  .m-dwHomepageBenefitsSection__benefit {
+    flex: 0 1 23em;
+    align-items: flex-start
+  }
+
+  .m-dwHomepageBenefitsSection__benefitIcon.-secure {
+    flex: 0 1 18.05em
+  }
+
+  .m-dwHomepageBenefitsSection__benefitIcon.-fast {
+    flex: 0 1 23em;
+    height: 22em
+  }
+
+  .m-dwHomepageBenefitsSection__benefitIcon.-reliable {
+    flex: 0 1 20.25em
+  }
+
+  .m-dwHomepageBenefitsSection__descriptionLayer {
+    flex: 1 0 80%
+  }
+
+  .m-dwHomepageBenefitsSection__benefitIcon.-fast {
+    order: initial
+  }
+}
+
+@media only screen and (min-width:1200px) {
+  .m-dwHomepageBenefitsSection__container {
+    margin-bottom: 18vh
+  }
+
+  .o-dwHomepageBenefitsSection {
+    background-size: 100%
+  }
+
+  .m-dwHomepageBenefitsSection__benefit {
+    flex: 0 1 25em
+  }
+
+  .m-dwHomepageBenefitsSection__benefitCrossFader {
+    position: relative;
+    cursor: pointer;
+    align-items: center;
+    display: block
+  }
+
+  .m-dwHomepageBenefitsSection__benefitIcon.-secure {
+    width: 18.05em
+  }
+
+  .m-dwHomepageBenefitsSection__benefitIcon.-fast {
+    width: 23em
+  }
+
+  .m-dwHomepageBenefitsSection__benefitIcon.-reliable {
+    width: 20.25em
+  }
+
+  .m-dwHomepageBenefitsSection__descriptionLayer {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    opacity: 0;
+    padding: 1em;
+    text-align: left;
+    transform: translateY(1em);
+    transition: opacity .5s ease-in-out, transform .5s ease-in-out;
+    font-size: 1.08em
+  }
+
+  .m-dwHomepageBenefitsSection__benefitCrossFader img {
+    transition: opacity .5s ease-in-out
+  }
+
+  .m-dwHomepageBenefitsSection__benefitCrossFader:hover img {
+    opacity: 0
+  }
+
+  .m-dwHomepageBenefitsSection__benefitCrossFader:hover .m-dwHomepageBenefitsSection__descriptionLayer {
+    transform: translateY(0);
+    opacity: 1
+  }
+
+  .o-dwDomainSearch {
+    background-position: 78% 0%, left top;
+    padding: 11em 1em 2em
+  }
+
+  .o-dwHomepage__servicesSection {
+    padding: 8em 1em 15em
+  }
+
+  .m-dwHomepageCloudHosting__container {
+    justify-content: center
+  }
+
+  .m-dwHomepageCloudHosting__icon {
+    flex: 0 1 35%
+  }
+
+  .a-dwHomepageCloudHosting__icon {
+    width: 40em;
+    height: 30em;
+    margin-left: 0;
+    margin-right: 5em
+  }
+
+  .m-dwHomepageCloudHosting__details {
+    flex: 0 1 45%;
+    font-size: 1.2em;
+    line-height: 1.5em
+  }
+
+  .o-dwHomepage__cloudServerSection {
+    margin-top: 0
+  }
+
+  .m-dwHomepageCloudServer__container {
+    justify-content: center
+  }
+
+  .m-dwHomepageCloudServer__icon {
+    flex: 0 1 35%
+  }
+
+  .a-dwHomepageCloudServer__icon {
+    width: 40em;
+    height: 30em;
+    margin-left: 5em
+  }
+
+  .m-dwHomepageCloudServer__details {
+    flex: 0 1 45%;
+    font-size: 1.2em;
+    line-height: 1.5em
+  }
+
+  .m-dwHomepageDewaGuard__container {
+    justify-content: center
+  }
+
+  .m-dwHomepageDewaGuard__icon {
+    flex: 0 1 35%
+  }
+
+  .a-dwHomepageDewaGuard__icon {
+    width: 40em;
+    height: 30em;
+    margin-left: 0;
+    margin-right: 5em
+  }
+
+  .m-dwHomepageDewaGuard__details {
+    flex: 0 1 45%;
+    font-size: 1.2em;
+    line-height: 1.5em
+  }
+
+  .m-dwHomepageSSL__container {
+    justify-content: center
+  }
+
+  .m-dwHomepageSSL__icon {
+    flex: 0 1 35%
+  }
+
+  .a-dwHomepageSSL__icon {
+    width: 40em;
+    height: 30em;
+    margin-left: 5em
+  }
+
+  .m-dwHomepageSSL__details {
+    flex: 0 1 45%;
+    font-size: 1.2em;
+    line-height: 1.5em
+  }
+
+  .m-dwHomepageRankingCoach__container {
+    justify-content: center
+  }
+
+  .m-dwHomepageRankingCoach__icon {
+    flex: 0 1 35%
+  }
+
+  .a-dwHomepageRankingCoach__icon {
+    width: 40em;
+    height: 30em;
+    margin-left: 0;
+    margin-right: 5em
+  }
+
+  .m-dwHomepageRankingCoach__details {
+    flex: 0 1 45%;
+    font-size: 1.2em;
+    line-height: 1.5em
+  }
+
+  .m-dwHomepageBackup__container {
+    justify-content: center
+  }
+
+  .m-dwHomepageBackup__icon {
+    flex: 0 1 35%
+  }
+
+  .a-dwHomepageBackup__icon {
+    width: 40em;
+    height: 30em;
+    margin-left: 0;
+    margin-right: 5em
+  }
+
+  .m-dwHomepageBackup__details {
+    flex: 0 1 45%;
+    font-size: 1.2em;
+    line-height: 1.5em
+  }
+
+  .m-dwHomepageDewastore__container {
+    justify-content: center
+  }
+
+  .m-dwHomepageDewastore__icon {
+    flex: 0 1 35%
+  }
+
+  .a-dwHomepageDewastore__icon {
+    width: 40em;
+    height: 30em;
+    margin-left: 0;
+    margin-right: 5em
+  }
+
+  .m-dwHomepageDewastore__details {
+    flex: 0 1 45%;
+    font-size: 1.2em;
+    line-height: 1.5em
+  }
+
+  .m-dwHomepageOtherServices__details {
+    font-size: 1.2em;
+    line-height: 1.5em
+  }
+
+  .a-dwHomepageOtherServices__icon {
+    width: 30em;
+    height: auto
+  }
+
+  .m-dwHomepageTestimonialsSection__testimonialCard {
+    width: 24em
+  }
+
+  .a-dwHomepageTestimonialsSection__cardReviewMsg {
+    width: 21em
+  }
+
+  .m-dwHomepageSupportSection__contact {
+    margin-bottom: 0;
+    flex: 1 1 auto
+  }
+
+  .m-dwHomepageSupportSection__btnLiveChat {
+    margin-left: 0
+  }
+}
+
+@media only screen and (min-width:2100px) {
+  .o-dwDomainSearch {
+    background-position: 67% 0%, left top
+  }
+
+  .o-dwHomepage__servicesSection {
+    padding: 10em 1em 18em
+  }
+
+  .m-dwHomepageCloudHosting__details {
+    flex: 0 1 35%
+  }
+
+  .m-dwHomepageCloudHosting__container {
+    justify-content: center
+  }
+
+  .m-dwHomepageCloudServer__details {
+    flex: 0 1 35%
+  }
+
+  .m-dwHomepageCloudServer__container {
+    justify-content: center
+  }
+
+  .m-dwHomepageDewaGuard__details {
+    flex: 0 1 35%
+  }
+
+  .m-dwHomepageDewaGuard__container {
+    justify-content: center
+  }
+
+  .m-dwHomepageSSL__details {
+    flex: 0 1 35%
+  }
+
+  .m-dwHomepageSSL__container {
+    justify-content: center
+  }
+
+  .m-dwHomepageRankingCoach__details {
+    flex: 0 1 35%
+  }
+
+  .m-dwHomepageRankingCoach__container {
+    justify-content: center
+  }
+
+  .m-dwHomepageBackup__details {
+    flex: 0 1 35%
+  }
+
+  .m-dwHomepageBackup__container {
+    justify-content: center
+  }
+
+  .m-dwHomepageDewastore__details {
+    flex: 0 1 35%
+  }
+
+  .m-dwHomepageDewastore__container {
+    justify-content: center
+  }
+}
+
+@media only screen and (min-width:2400px) {
+  .o-dwHomepage__servicesSection {
+    padding: 15em 1em 28em
+  }
+}
+
+@media only screen and (min-width:2560px) {
+
+  .a-dwHomepageCloudHosting__icon,
+  .a-dwHomepageCloudServer__icon,
+  .a-dwHomepageDewaGuard__icon,
+  .a-dwHomepageSSL__icon,
+  .a-dwHomepageRankingCoach__icon,
+  .a-dwHomepageBackup__icon,
+  .a-dwHomepageDewastore__icon {
+    width: 50em;
+    height: 40em
+  }
+}
+
+@media only screen and (min-width:3400px) {
+  .o-dwHomepage__servicesSection {
+    padding: 20em 1em 32em
+  }
+}
