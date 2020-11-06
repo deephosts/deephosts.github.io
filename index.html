@@ -103,17 +103,34 @@
         <div class="collapse navbar-collapse o-dwNavbar__collapseNavbar" id="primary-nav">
           <ul class="nav navbar-nav m-dwNavbar__primaryNavbar" data-in="fadeIn" data-out="fadeOut">
             <li menuItemName="hosting" class="" id="Primary_Navbar-hosting">
-              <a href="/hosting">
-                Hosting
-              </a>
+              <a href="/index.php?rp=/store/shared-hosting">Shared Hosting</a>
             </li>
             <li menuItemName="server" class="" id="Primary_Navbar-server">
-              <a href="/cloud-vps">
-                Server
-              </a>
+              <a href="/index.php?rp=/store/vps">VPS</a>
+            </li>
+            <li menuItemName="server" class="" id="Primary_Navbar-server">
+              <a href="/index.php?rp=/store/cloud-vps">Cloud VPS</a>
+            </li>
+            <li menuItemName="others" class="dropdown" id="Primary_Navbar-others">
+              <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                Dedicated
+                &nbsp;<i class="fa fa-chevron-down" aria-hidden="true"></i> </a>
+              <ul class="dropdown-menu auto" style="min-width: 280px;">
+                <li menuItemName="Cloud Backup" id="Primary_Navbar-others-Cloud_Backup">
+                  <a href="/index.php?rp=/store/dedicated-cloud">
+                    <i class="fa fa-fw fa-cloud"></i>&nbsp;Dedicated Cloud
+                  </a>
+                </li>
+                <li menuItemName="SSL" id="Primary_Navbar-others-SSL">
+                  <a href="/index.php?rp=/store/bare-metal">
+                    <i class="fa fa-fw fa-server"></i>&nbsp;Bare Metal
+                  </a>
+                </li>
+                </li>
+              </ul>
             </li>
             <li menuItemName="domain" class="" id="Primary_Navbar-domain">
-              <a href="/domain">
+              <a href="/domainchecker.php">
                 Domain
               </a>
             </li>
@@ -122,27 +139,32 @@
                 Services
                 &nbsp;<i class="fa fa-chevron-down" aria-hidden="true"></i> </a>
               <ul class="dropdown-menu auto" style="min-width: 280px;">
+                <li menuItemName="Dewastore" id="Primary_Navbar-others-Dewastore">
+                  <a href="/index.php?rp=/store/ssl-certificates">
+                    <i class="fa fa-fw fa-certificate"></i>&nbsp;SSL Certificates
+                  </a>
+                </li>
                 <li menuItemName="Cloud Backup" id="Primary_Navbar-others-Cloud_Backup">
-                  <a href="/backup">
-                    <i class="fa fa-fw fa-cloud"></i>&nbsp;Cloud Backup
+                  <a href="/index.php?rp=/store/vpn">
+                    <i class="fa fa-fw fa-user-secret"></i>&nbsp;VPN
                   </a>
                 </li>
                 <li menuItemName="SSL" id="Primary_Navbar-others-SSL">
-                  <a href="/ssl-certificates">
-                    <i class="fa fa-fw fa-lock"></i>&nbsp;SSL Certificates
+                  <a href="/index.php?rp=/store/website-builder">
+                    <i class="fa fa-fw fa-hand-grab-o"></i>&nbsp;Website Builder
                   </a>
                 </li>
                 <li menuItemName="Dewastore" id="Primary_Navbar-others-Dewastore">
-                  <a href="/dewastore">
-                    <i class="fa fa-fw fa-cart-plus"></i>&nbsp;Dewastore
+                  <a href="/index.php?rp=/store/sitelock">
+                    <i class="fa fa-fw fa-lock"></i>&nbsp;Website Security
+                  </a>
+                </li>
+                <li menuItemName="Dewastore" id="Primary_Navbar-others-Dewastore">
+                  <a href="/index.php?rp=/store/marketgoo">
+                    <i class="fa fa-fw fa-shopping-bag"></i>&nbsp;SEO Tools
                   </a>
                 </li>
               </ul>
-            </li>
-            <li menuItemName="promo" class="" id="Primary_Navbar-promo">
-              <a href="https://promo.dewaweb.com/?utm_source=dewawebcom&utm_medium=menu" target="_blank">
-                Promo
-              </a>
             </li>
           </ul>
           <ul class="nav navbar-nav navbar-right m-dwNavbar__secondaryNavbar" data-in="fadeIn" data-out="fadeOut">
@@ -586,7 +608,7 @@
           <div class="o-dwDomainSearch">
             <p class="h3 text-center text-white">CHECK DOMAIN NAMES</p>
             <p class="h4 text-center">Dapatkan domain murah dan keren untuk brand bisnis online kamu!</p>
-            <form class="dwDomainSearch__form" id="dwDomainSearchForm" method="POST" action="/ajax/pub/searchbulkdomain" data-type="domainsearch">
+            <form class="dwDomainSearch__form" id="dwDomainSearchForm" method="POST" action="/domainchecker.php" data-type="domainsearch">
               <input type="hidden" name="token" value="2a965359945ad7857d14165de2448e45dc7db32e" />
               <div class="input-group m-dwDomainSearch__formContainer">
                 <input type="text" class="form-control a-dwDomainSearch__domainInput" name="domain" placeholder="Find your perfect domain name" autocomplete="off" required="">
@@ -602,7 +624,6 @@
               <input type="hidden" name="tlds[]" value=".co.id">
               <input type="hidden" name="tlds[]" value=".id">
             </form>
-            <a class="h4 text-center" href="/blog/tips-memilih-nama-domain-yang-tepat" target="_blank">12 Tips untuk Memilih Nama Domain Terbaik</a>
             <div id="register">
               <result></result>
             </div>
