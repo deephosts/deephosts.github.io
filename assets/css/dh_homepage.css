@@ -1607,3 +1607,55 @@ span.input-group-btn {
     padding: 20em 1em 32em
   }
 }
+
+/* custom */
+.dpService3__icon {
+  width: 20em;
+  background: url('../img/service/service-3.png') no-repeat center center/contain;
+  height: 14em
+}
+.dpService4__icon {
+  width: 20em;
+  background: url('../img/service/service-4.png') no-repeat center center/contain;
+  height: 14em
+}
+.dpService5__icon {
+  width: 20em;
+  background: url('../img/service/service-5.png') no-repeat center center/contain;
+  height: 14em
+}
+@media only screen and (min-width:768px) {
+  .dpService3__icon, .dpService4__icon4, .dpService5__icon {
+    width: 20em;
+    height: 20em
+  }
+}
+@media only screen and (min-width:992px) {
+  .dpService3__icon, .dpService4__icon, .dpService5__icon {
+    width: 25em;
+    height: 25em
+  }
+}
+@media only screen and (min-width:1200px) {
+  .dpService3__icon, .dpService5__icon {
+    width: 40em;
+    height: 30em;
+    margin-left: 0;
+    margin-right: 5em
+  }
+}
+@media only screen and (min-width:2560px) {
+  .a-dwHomepageCloudHosting__icon,
+  .a-dwHomepageCloudServer__icon,
+  .a-dwHomepageDewaGuard__icon,
+  .a-dwHomepageSSL__icon,
+  .a-dwHomepageRankingCoach__icon,
+  .dpService3__icon,
+  .dpService4__icon,
+  .dpService5__icon,
+  .a-dwHomepageDewastore__icon {
+    width: 50em;
+    height: 40em
+  }
+}
+/* end custom */
